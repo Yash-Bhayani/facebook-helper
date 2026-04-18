@@ -3,7 +3,7 @@
 
 This browser extension is built to have a better Facebook user experience.
 
-<video src="demo_video/facebook-helper-extension.mp4" width="600" controls></video>
+[Demo Video](demo_video/facebook-helper-extension.mp4)
 
 ## Options
 
