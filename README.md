@@ -3,8 +3,6 @@
 
 This browser extension is built to have a better Facebook user experience.
 
-[Demo Video](demo_video/facebook-helper-extension.mp4)
-
 Demo Video: https://ymbitsolutions.com/videos/browser_extension/facebook-helper-extension.mp4
 
 ## Options
